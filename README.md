@@ -1,4 +1,4 @@
-## Hola, como estas? 👋 Bienbenido a mi GitHub
+## Hola, como estas? 👋 Bienvenido a mi GitHub
 Soy un joven ingeniero de sistemas que cada dia trata de aprender más, ya sea aprender cosas nuevas ó mejorar los conocimientos que ya tengo
 <!--
 **Andres-Cruz-CC/Andres-Cruz-CC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
